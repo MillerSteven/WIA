@@ -3,6 +3,7 @@
      Date: 03/04/2015
      Class & Section:  WIA-Sec-01
      Comments: "HTML5 Canvas Drawing"
+	 GitHub URL: https://github.com/MillerSteven/WIA
  */
 
 
